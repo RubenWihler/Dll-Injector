@@ -3,7 +3,7 @@
 ## Description
 
 Un simple injecteur de DLL en C++.
-Il est possible de choisir le processus cible, la DLL à injecter.
+Il est possible de choisir le processus cible, ainsi que la DLL à injecter.
 
 ## Utilisation
 Arguments:
